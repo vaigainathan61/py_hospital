@@ -1,0 +1,10 @@
+# requirements.txt
+
+colorama==0.4.6
+iniconfig==2.0.0
+mysql-connector==2.2.9
+mysql-connector-python==8.4.0
+mysqlclient==2.2.4
+packaging==24.0
+pluggy==1.5.0
+pytest==8.2.1
